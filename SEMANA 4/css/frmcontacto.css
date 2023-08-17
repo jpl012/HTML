@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(43, 226, 202);
+}
+header{
+    background-color: black !important;
+    border: 2px solid blue;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+header img{
+    padding: 25px;
+}
+nav{
+    background-color:deepskyblue;
+    border: 2px solid green;
+    border-radius: 22px;
+}
+nav p{
+    text-align: center;
+    color: white;
+    font-size: 40px;
+}
+section{
+    
+
+}
